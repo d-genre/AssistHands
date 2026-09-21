@@ -1,0 +1,7 @@
+streamlit
+razorpay
+google-generativeai
+groq
+gTTS
+python-dotenv
+pydantic
